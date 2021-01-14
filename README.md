@@ -14,7 +14,7 @@
 
 ## Description
 
-[Demo Video](https://drive.google.com/file/d/1dKxkqUP0kZxEZgwBiH2slVw8nHYucW-g/view?usp=sharing)
+[Demo Video](https://drive.google.com/file/d/1ZvXCdyKYUOjZ9mSoN46fiQ6TZL21MjnE/view?usp=sharing)
 
 To be able to create people and their roles on your team, which will then be automatically generatedd in a nice graphical user interface.
 
